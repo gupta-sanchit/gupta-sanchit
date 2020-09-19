@@ -9,7 +9,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 - 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 - 🌐 Visit my [porfolio website](https://iamsanchitgupta.com/) for complete background and contact.
 
-<details>
+<details open>
 <summary>🤝 <b>To Connect with Me</b></summary>
 
 <p align = "center">
