@@ -18,7 +18,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gupta-sanchit-1802/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gupta.sanchit)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sanchitgupta98)
-[<img src = "https://img.shields.io/badge/mail-%2312100E.svg?&style=for-the-badge&logo=mail&logoColor=white"/>](mailto:sanchit@iamsanchitgupta.com)
+[<img src = "https://img.shields.io/badge/mailbox-%2312100E.svg?&style=for-the-badge&logo=mailbox&logoColor=white"/>](mailto:sanchit@iamsanchitgupta.com)
 
 </p>
 
