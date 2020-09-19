@@ -1,5 +1,6 @@
 ## Hi 👋 I am Sanchit! 
-<img align = "right" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width = "230">
+<!-- <img align = "right" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width = "230"> -->
+<img align = "right" src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width = "230">
 I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, Java, Tensorflow, and  keras. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
@@ -27,10 +28,8 @@ I am a developer who is passionate about stuff like deep learning and data scien
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gupta-sanchit&show_icons=true&theme=tokyonight&line_height=27&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gupta-sanchit&show_icons=true&theme=tokyonight&line_height=40&count_private=true&hide=issues&include_all_commits=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-sanchit&theme=tokyonight">
 </p>
 
 </details>
-
-<details> 
