@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="210">
 
 💻 I’m a **Full-Stack Software Engineer** with experience designing, developing, and scaling enterprise-grade applications.  
-I specialize in **.NET, Angular, Blazor, and PostgreSQL**, with strong expertise in **cloud (AWS), CI/CD pipelines, containerization (Docker, Kubernetes), and DevOps automation (Terraform, GitHub Actions, Azure DevOps)**.  
+I specialize in **.NET, Python, Angular, Blazor, and PostgreSQL**, with strong expertise in **cloud (AWS), CI/CD pipelines, containerization (Docker, Kubernetes), and DevOps automation (Terraform, GitHub Actions, Azure DevOps)**.  
 
 Currently, I’m leading initiatives around **payment orchestration, wallet services, and secure iFrame integrations**, with a focus on **scalability, security, and performance optimization**.  
 
