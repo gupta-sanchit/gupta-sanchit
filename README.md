@@ -1,64 +1,46 @@
-## Hi 👋 I am Sanchit!
+# 👋 Hi, I’m Sanchit Gupta  
 
-<img align = "right" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width = "210">
-I am a developer who is passionate about stuff like deep learning and data science. The few techs that I enjoy working on are Python, Java, Tensorflow, and Keras. I am actively looking for opportunities in Data Science and Deep Learning.
+<img align="right" src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width="210">
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive programming, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 🌐 Visit my [porfolio website](https://iamsanchitgupta.com/) for complete background and contact.
+💻 I’m a **Full-Stack Software Engineer** with experience designing, developing, and scaling enterprise-grade applications.  
+I specialize in **.NET, Angular, Blazor, and PostgreSQL**, with strong expertise in **cloud (AWS), CI/CD pipelines, containerization (Docker, Kubernetes), and DevOps automation (Terraform, GitHub Actions, Azure DevOps)**.  
 
-<details open>
-<summary>👨🏻‍💻 <b>Languages & Tools</b> </summary>
-<p>
-  <img alt="Python" width="40px" src ="https://img.icons8.com/color/48/000000/python.png">
-  <img alt="Java" width="40px" src ="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-  <img alt="C++" width="40px" src ="img/cpp.png">
-  <img alt="ML" width="40px" src ="img/ml.png">
-  <img alt="Scikit" width="40px" src ="img/sklearn.png">
-  <img alt="Pandas" width="40px" src ="img/pandas.png">
-  <img alt="Tableu" width="40px" src ="https://img.icons8.com/color/48/000000/tableau-software.png">
-  <img alt="Neural Networks" width="40px" src ="img/neural-net.png">
+Currently, I’m leading initiatives around **payment orchestration, wallet services, and secure iFrame integrations**, with a focus on **scalability, security, and performance optimization**.  
 
-  <br/>
-  <br/>
-  <br/>
+---
 
-  <img alt="MySQL" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  <img alt="Bash" width="40px" src ="img/unix.png">
-  <img alt="HTML5" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img alt="CSS3" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img alt="Git" width="40px" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  <img alt="GitHub" width="40px" src ="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+### 🚀 What I Do
+- Architect and build **secure payment ecosystems**.
+- Implement **microservices & event-driven systems** with .NET and MassTransit.
+- Optimize databases (**PostgreSQL, partitioning, Dapper, EF Core**) for large-scale transactions.
+- Deploy resilient infra on **AWS (EKS, Aurora, S3, CloudFront, Lambda, Secrets Manager, KMS)**.
+- Write maintainable, tested code (**xUnit v3, Playwright, Testcontainers, Microsoft Testing Platform**).
+- Drive **CI/CD pipelines** using GitHub Actions and Azure DevOps with environment-specific automation.
 
-</p>
+---
 
-</details>
+### 🛠️ Tech Stack
 
-<details open>
-<summary>🤝 <b>To Connect with Me</b></summary>
+#### 💻 Languages & Frameworks  
+- C#, .NET 8/9, ASP.NET Core, Blazor, Angular, TypeScript, JavaScript, Python  
 
-<p align = "center">
+#### 🗄️ Databases  
+- PostgreSQL (partitioning, performance tuning), SQL Server, SQLite  
 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://iamsanchitgupta.com/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gupta-sanchit-1802/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gupta.sanchit)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sanchitgupta98)
-[<img src = "https://img.shields.io/badge/mailbox-%2312100E.svg?&style=for-the-badge&logo=mailbox&logoColor=white"/>](mailto:sanchit@iamsanchitgupta.com)
+#### ☁️ Cloud & DevOps  
+- AWS (EKS, S3, Aurora, CloudFront, Lambda, Secrets Manager, KMS)  
+- Docker, Kubernetes, Helm, Terraform, GitHub Actions, Azure DevOps  
 
-</p>
+#### 📊 Observability & Testing  
+- OpenTelemetry, Datadog, xUnit v3, Playwright, Bunit, Testcontainers  
 
-</details>
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+---
 
-<br>
+### 📈 Current Focus
+- Building **Wallet & Merchant Payment Platforms** at scale.  
+- Designing **PCI-compliant, tokenized payment flows** using Spreedly, Aurus, Elavon, etc.  
+- Creating **modular automation frameworks** for backend services and UI.  
+- Exploring advanced **system design patterns** (Saga, CQRS, event sourcing).  
 
-<p align = "center">
-<br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=gupta-sanchit&show_icons=true&theme=tokyonight&line_height=40&count_private=true&hide=issues&include_all_commits=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-sanchit&theme=tokyonight&hide=javascript&line_height=40">
-</p>
+---
 
-</details>
